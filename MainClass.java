@@ -1,3 +1,6 @@
+//Работу выполнил Протасов Андрей.
+
+
 public class MainClass {
     public static void main(String[] args) {
 
